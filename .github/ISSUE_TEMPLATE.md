@@ -2,10 +2,10 @@ This template is here to help you to write your issue ;)
 
 **What is the problem?**
 Try to give as many details about the bug/new feature/enhancement as possible,
-but keep it friendly for new comers
+but keep it friendly for newcomers
 
 **How can this be addressed?**
-New comers might need help on how to approach or build a solution, maybe a
+Newcomers might need help on how to approach or build a solution, maybe a
 step-by-step on how to address the issue can help
 
 **Who could help with this issue?**
